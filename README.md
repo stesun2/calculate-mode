@@ -5,7 +5,7 @@
 - Break a large problem down into smaller steps using pseudocode
 - Iterate through data structures and manipulate the content
 - Determine which data structure (arrays or hashes) to use based on challenge requirements
-- Pass the included RSpec tests. READ THE ERROR MESSAGES!
+- Pass the included RSpec tests. **READ THE ERROR MESSAGES!**
 
 
 ## Let's begin
@@ -23,6 +23,4 @@ mode([1,1,2,2])         # => [1,2]
 mode([1,2,3])           # => [1,2,3], because all occur with equal frequency
 mode(["who", "what", "where", "who"]) # => ["who"]
 ```
-HINT: You'll want to look at [`Hash`](http://ruby-doc.org/core-2.0.0/Hash.html)es for this challenge.
-
-
+HINT: You'll want to look at [`Hash`](http://ruby-doc.org/core-2.4.0/Hash.html)es for this challenge.
