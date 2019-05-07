@@ -20,3 +20,5 @@ calculate_mode([1,1,2,2])         # => [1,2]
 calculate_mode([1,2,3])           # => [1,2,3], because all occur with equal frequency
 calculate_mode(["who", "what", "where", "who"]) # => ["who"]
 ```
+
+Remember to always write tests!
