@@ -1,3 +1,3 @@
-const calculate_mode = () => {
+const calculateMode = () => {
 
 }
